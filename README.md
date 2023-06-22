@@ -48,9 +48,9 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 ## Screenshots Applicable to Students Only
 
 ### Home
-<img src="https://user-images.githubusercontent.com/52381965/232178455-4550aa21-375f-456d-b757-d723a1e769ad.PNG" width="200">
+<img src="https://github.com/Isha1218/vertex/assets/52381965/55d4748c-d843-46a7-a1ec-46d894a568f3" width="200">
 
-<img src="https://user-images.githubusercontent.com/52381965/232178456-286ee6f6-43a6-4e47-8b51-66878e152c08.PNG" width="200">
+<img src="https://github.com/Isha1218/vertex/assets/52381965/b2ce53f9-6117-40c7-955c-f625dc4e576d" width-"200">
 
 
 ### Student Add Events
