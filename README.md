@@ -74,9 +74,9 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 ### Home
 <img src="https://github.com/Isha1218/vertex/assets/52381965/8e67f07f-e7b9-479a-938e-40c5d2b96769" width="200">
 
-<img src="https://user-images.githubusercontent.com/52381965/232179350-e44ca9f8-0830-4305-98cb-a817f32781bb.PNG" width="200">
+<img src="https://github.com/Isha1218/vertex/assets/52381965/73efb3aa-2982-4f23-bef9-b3e39ad49b93" width="200">
 
-<img src="https://user-images.githubusercontent.com/52381965/232179352-6b7153ed-b61b-4251-9791-c64dec60d057.PNG" width="200">
+<img src="https://github.com/Isha1218/vertex/assets/52381965/ff63ac3a-7fd8-40b4-a6ff-eef5e848a728" width="200">
 
 
 ### Add Events
