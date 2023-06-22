@@ -86,7 +86,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 ## Screenshots Applicable to Parents Only
 
 ### Home
-<img src="https://user-images.githubusercontent.com/52381965/232179244-4c8ad6a4-d58c-4f7d-9b97-827946c0855f.jpeg" width="200">
+<img src="https://github.com/Isha1218/vertex/assets/52381965/a1c25917-3655-439d-84b6-7d9143c6d769" width="200">
 
 
 ### Report Absences
@@ -96,11 +96,11 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 ## Screenshots Applicable to Students, Parents, and Teachers
 
 ### Calendar
-<img src="https://user-images.githubusercontent.com/52381965/232178955-74267927-b95e-48b4-aaaa-8b79e289cbf4.jpeg" width="200">
+<img src="https://github.com/Isha1218/vertex/assets/52381965/9691ebf8-5045-4160-a590-c6e7461b7647" width="200">
 
 
 ### Settings
-<img src="https://user-images.githubusercontent.com/52381965/232179437-5d0eb64a-e264-46b5-9833-057b75f0e423.jpeg" width="200">
+<img src="https://github.com/Isha1218/vertex/assets/52381965/a96b6986-e0b7-4d75-a187-b0e829f1dd3f" width="200">
 
 
 # Features
