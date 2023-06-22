@@ -306,7 +306,7 @@ If any help is needed while navigating through the app, please contact: [ishita.
 # RoadMap
 Future releases include:
 * Deployment of app at North Creek High School and further expanding to other schools.
-* Notifications for upcoming events and messages.
+* Push notifications
 * Events from classes
 * Optimizing Firebase
 
