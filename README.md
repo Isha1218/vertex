@@ -27,7 +27,6 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 * [google_sign_in](https://pub.dev/packages/google_sign_in): Authorizes user based on their Google accounts. 
 * [provider](https://pub.dev/packages/provider): Makes widgets more easier and reusable to use.
 * [get](https://pub.dev/packages/get): Combines high-performance state management, intelligent dependency injection, and route management quickly and practically.
-* [google_nav_bar](https://pub.dev/packages/google_nav_bar): Creates an aesthetic nav bar at the bottom of the screen. 
 * [flutter_swiper](https://pub.dev/packages/flutter_swiper): Creates a swipable layout for good UI and cool aesthetics.
 * [flutter_slidable](https://pub.dev/packages/flutter_slidable): Allows list item to slide, providing user with additional functionality. 
 * [flutter_event_calendar](https://pub.dev/packages/flutter_event_calendar): Displays a calendar with severl views (e.g. monthly, weekly). 
@@ -40,6 +39,9 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 * [image_picker](https://pub.dev/packages/image_picker): A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
 * [webview_flutter](https://pub.dev/packages/webview_flutter): Directs user to a new link within the app.
 * [permission_handler](https://pub.dev/packages/permission_handler): Requests permission from user to access particluar tools on user's phone.
+* [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view): Layed out images in a grid view for the payment system page.
+* [motion_tab_bar_v2](https://pub.dev/packages/motion_tab_bar_v2): Represents the tab bar at the bottom of the screen to easily navigate through the pages.
+* [rive_splash_screen](https://pub.dev/packages/rive_splash_screen): Adds cool animation effect to splash screen with the Rive software.
 
 # Screenshots
 
@@ -49,6 +51,9 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 <img src="https://user-images.githubusercontent.com/52381965/232178455-4550aa21-375f-456d-b757-d723a1e769ad.PNG" width="200">
 
 <img src="https://user-images.githubusercontent.com/52381965/232178456-286ee6f6-43a6-4e47-8b51-66878e152c08.PNG" width="200">
+
+<img src="https://github.com/Isha1218/vertex/assets/52381965/c59895f6-5a82-48a8-bd91-162973a79b2a" width="200">
+
 
 
 ### Student Add Events
