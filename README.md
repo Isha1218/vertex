@@ -76,7 +76,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 
 <img src="https://github.com/Isha1218/vertex/assets/52381965/73efb3aa-2982-4f23-bef9-b3e39ad49b93" width="200"><br />
 
-<img src="https://github.com/Isha1218/vertex/assets/52381965/ff63ac3a-7fd8-40b4-a6ff-eef5e848a728" width="200"><br />
+<img src="https://github.com/Isha1218/vertex/assets/52381965/ff63ac3a-7fd8-40b4-a6ff-eef5e848a728" width="200">
 
 
 ### Add Events
