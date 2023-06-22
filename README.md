@@ -72,7 +72,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 ## Screenshots Applicable to Teachers Only
 
 ### Home
-<img src="https://user-images.githubusercontent.com/52381965/232179347-b0bc5979-bc0f-43c1-8d6c-b9b1d24f721c.PNG" width="200">
+<img src="https://github.com/Isha1218/vertex/assets/52381965/8e67f07f-e7b9-479a-938e-40c5d2b96769" width="200">
 
 <img src="https://user-images.githubusercontent.com/52381965/232179350-e44ca9f8-0830-4305-98cb-a817f32781bb.PNG" width="200">
 
