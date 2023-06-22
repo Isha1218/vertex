@@ -52,9 +52,6 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 
 <img src="https://user-images.githubusercontent.com/52381965/232178456-286ee6f6-43a6-4e47-8b51-66878e152c08.PNG" width="200">
 
-<img src="https://github.com/Isha1218/vertex/assets/52381965/c59895f6-5a82-48a8-bd91-162973a79b2a" width="200">
-
-
 
 ### Student Add Events
 <img src="https://user-images.githubusercontent.com/52381965/232178913-eafdc0f3-2db2-48e8-b95c-30267043f727.jpeg" width="200">
@@ -67,7 +64,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 
 
 ### Bookkeeper
-<img src="https://user-images.githubusercontent.com/52381965/232179161-8f7985ef-3cfa-41e0-8afe-75ca86d06498.PNG" width="200">
+<img src="https://github.com/Isha1218/vertex/assets/52381965/c59895f6-5a82-48a8-bd91-162973a79b2a" width="200">
 
 <img src="https://user-images.githubusercontent.com/52381965/232179574-4b9822ba-a4e4-4cae-a229-05c551395a03.PNG" width="200">
 
